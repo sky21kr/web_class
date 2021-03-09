@@ -1,5 +1,4 @@
 # 웹 서비스 프로그래밍 과제   
----
 ## To Die For
 ### 샘 스미스  
 It is if everyone dies alone  
